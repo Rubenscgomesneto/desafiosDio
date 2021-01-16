@@ -9,3 +9,17 @@ A entrada contém um número inteiro N. Este N será a quantidade de pares de va
 
 Saída
 Para cada caso mostre o resultado da divisão com um dígito após o ponto decimal, ou “divisão impossível” caso não seja possível efetuar o cálculo.
+
+INFORMAÇÕES DE CONTATO
+
+Linkedin:
+
+https://www.linkedin.com/in/rubens-gomes-89347418b/
+
+Github:
+
+https://github.com/Rubenscgomesneto
+
+Email:
+
+rubenscgomesneto@gmail.com
